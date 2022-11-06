@@ -2,16 +2,17 @@
 My Levenshtein.js project in the preseason web Qwasar study platform.
 
 ## Task
-writing an algorithm that calculates the Qwasar version of a Levenshtein number between two words.
+Writing an algorithm that calculates the Qwasar version of a Levenshtein number between two words.
+If the two strings are the same size, you must then iterate through each string and determine which characters are different. Each time there is a difference, it counts as 1.
 
 ## Description
 I created a fucntion with two same number of string in it, Then iterate over them to print the difference between the two strings but if the parameters are not the same then it returns a -1.
 
 ## Installation
-There was no installation made according to the task given.
+There was no installation made according to the task given. just tasted with console.log to see results.
 
 ## Usage
-Pretty much as expected. returns a "-1" if the parameters are not the same. 
+Pretty much as expected. returns a "-1" if the parameters are not the same. then Each time there is a difference, it counts as 1.
 ./my_project argument1 argument2
 ```
 
