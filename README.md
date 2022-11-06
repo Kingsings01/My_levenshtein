@@ -6,7 +6,8 @@ Writing an algorithm that calculates the Qwasar version of a Levenshtein number 
 If the two strings are the same size, you must then iterate through each string and determine which characters are different. Each time there is a difference, it counts as 1.
 
 ## Description
-I created a fucntion with two same number of string in it, Then iterate over them to print the difference between the two strings but if the parameters are not the same then it returns a -1.
+I created a fucntion with two same number of string in it, Then iterate over them to print the difference between the two strings but if the parameters are not the same then it returns a value of -1.
+then each time there's a difference in the string it counts as 1.
 
 ## Installation
 There was no installation made according to the task given. just tasted with console.log to see results.
